@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nazmul Haque
 #### Full-Stack Web  Developer Designer & WordPress Expert
-![Full-Stack Web  Developer Designer & WordPress Expert]([https://media.licdn.com/dms/image/D4D16AQEi1QHxVWBLvw/profile-displaybackgroundimage-shrink_350_1400/0/1711188948452?e=1720656000&v=beta&t=TL2o6-HTvX_0wXL1TMlPntva7Hwq0dc0hBc-XlysByE](https://media.licdn.com/dms/image/D4D16AQEi1QHxVWBLvw/profile-displaybackgroundimage-shrink_350_1400/0/1711188948452?e=1726099200&v=beta&t=uMax6pyzCRO7dTypbK2tPU6dyxd1VfUtJzhvWDe5ETs))
+![Full-Stack Web  Developer Designer & WordPress Expert](https://media.licdn.com/dms/image/D4D16AQEi1QHxVWBLvw/profile-displaybackgroundimage-shrink_350_1400/0/1711188948452?e=1726099200&v=beta&t=uMax6pyzCRO7dTypbK2tPU6dyxd1VfUtJzhvWDe5ETs)
 
 Hi there ! This is Nazmul Haque .I am a website developer & designer. I have been working in this sector for the last 4 years of experience high performance website. My expertise lies in full-stack development, where I seamlessly blend front-end and back-end technologies to deliver exceptional user experiences.
 
